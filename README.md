@@ -63,4 +63,4 @@ Kode saya ini sangat sederhana. Terdapat file linearregression sebagai pendukung
 1. Stackoverflow
 2. https://www.youtube.com/watch?v=qdOG7YMolmA
 3. https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html
-4. Dosen Probstat Tercinta
+4. Dosen Probstat Tercinta -- bu Fariska
